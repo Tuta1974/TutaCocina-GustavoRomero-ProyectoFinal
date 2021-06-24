@@ -1,0 +1,34 @@
+$font-family-sans-serif: 'Raleway', sans-serif;
+
+$primary:     gray;
+$secondary:   white;
+$success:     green;
+$info:        cyan ;
+$warning:     red;
+$danger:      black;
+$light:       grey ;
+$dark:        gray ;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+) ;
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+) ;
+
+$carousel-transition-duration:       .8s;
+$carousel-transition:                transform $carousel-transition-duration ease-in-out;
+
+
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
