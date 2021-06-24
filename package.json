@@ -1,0 +1,22 @@
+{
+  "name": "tutacocina",
+  "version": "1.0.0",
+  "description": "tp coderhouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuta1974/TutaCocina-GustavoRomero-GitHub.git"
+  },
+  "author": "Gustavo Albino Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuta1974/TutaCocina-GustavoRomero-GitHub/issues"
+  },
+  "homepage": "https://github.com/Tuta1974/TutaCocina-GustavoRomero-GitHub#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.1"
+  }
+}
